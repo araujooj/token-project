@@ -31,9 +31,6 @@ jobs:
       - name: Build tokens
         run: npm run build-tokens
 
-      - name: Build
-        run: npm run build
-
       - name: Create PR
         uses: peter-evans/create-pull-request@v4
         with:
