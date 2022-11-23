@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 23 Nov 2022 12:10:27 GMT
+ * Generated on Wed, 23 Nov 2022 12:54:55 GMT
  */
 
 export const ColorBlack = "#000000";
@@ -35,7 +35,7 @@ export const ColorOrange600 = "#ea580c";
 export const ColorOrange700 = "#c2410c";
 export const ColorOrange800 = "#9a3412";
 export const ColorOrange900 = "#7c2d12";
-export const ColorYellow50 = "#fefce8";
+export const ColorYellow50 = "#fffac8";
 export const ColorYellow100 = "#fef9c3";
 export const ColorYellow200 = "#fef08a";
 export const ColorYellow300 = "#fde047";
